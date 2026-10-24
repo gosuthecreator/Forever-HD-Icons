@@ -27,15 +27,15 @@ This is **not an addon**. It replaces the game's icon files, so it goes in the *
 
 1. Close the game completely.
 2. From the downloaded zip, copy the **`ICONS`** folder into
-   `World of Warcraft\_classic_beta_\Interface\`
+   `World of Warcraft\_forever_\Interface\`
    so that you end up with
-   `World of Warcraft\_classic_beta_\Interface\ICONS\*.blp`
+   `World of Warcraft\_forever_\Interface\ICONS\*.blp`
 3. Start the game. A `/reload` is not enough — it must be a full start.
 
 ## Uninstall
 
 1. Close the game.
-2. Delete the folder `World of Warcraft\_classic_beta_\Interface\ICONS`.
+2. Delete the folder `World of Warcraft\_forever_\Interface\ICONS`.
 3. Start the game again. The game's own icons are back.
 
 ## Updating
