@@ -11,7 +11,7 @@ The icons are Blizzard's own artwork, kept faithful to the originals — same sh
 - **4,801 icons** at 128×128: spells, abilities, items, gear, consumables, professions, achievements, talents and more.
 - **Faithful upscaling**: Real-ESRGAN with the 4x-UltraSharp model, then scaled to 128×128 with each icon's own transparency kept.
 - **Works everywhere** the game shows an icon: action bars, bags, the spellbook, talents, tooltips, the quest log, loot and more.
-- **Works with any interface**: the default UI or any addon. It also sits well with [Hearth UI](https://github.com/gosuthecreator/HearthUI).
+- **Works with any interface**: the default UI or any addon. It also sits well with Hearth UI.
 - **No performance cost**: the game simply loads these files instead of its own. There is no addon running.
 - **Only what Forever uses**: icons referenced by Forever's game data and interface. Anything not included keeps the game's own version.
 
