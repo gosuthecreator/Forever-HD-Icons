@@ -4,6 +4,8 @@
 
 The game's icons were drawn small, and on today's screens they turn soft and blocky on your action bars, in your bags and in every tooltip. Forever HD Icons replaces them with crisp 128×128 versions.
 
+![The game's 64×64 icons next to the 128×128 versions, shown at the same size](docs/comparison.png)
+
 The icons are Blizzard's own artwork, kept faithful to the originals — same shapes, same colours, same transparency — just upscaled with care. Nothing is redrawn or restyled, so every icon still looks exactly like itself, only clearer.
 
 ## Features
